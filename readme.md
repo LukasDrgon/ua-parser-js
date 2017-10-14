@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/faisalman/ua-parser-js.svg?branch=master)](https://travis-ci.org/faisalman/ua-parser-js)
 [![NPM downloads](https://img.shields.io/npm/dw/ua-parser-js.svg)](https://www.npmjs.com/package/ua-parser-js)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/ua-parser-js/badge/week?style=rounded)](https://www.jsdelivr.com/package/npm/ua-parser-js)
 [![NPM](https://img.shields.io/npm/v/ua-parser-js.svg)](https://www.npmjs.com/package/ua-parser-js)
 [![Bower](https://img.shields.io/bower/v/ua-parser-js.svg)](https://bower.io/)
 [![CDNJS](https://img.shields.io/cdnjs/v/UAParser.js.svg)](https://cdnjs.com/libraries/UAParser.js)
